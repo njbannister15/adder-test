@@ -1,0 +1,4 @@
+/home/nicholas/Envs/welllogs-service/lib/python3.6/site-packages/adder/__init__.py
+/home/nicholas/Envs/welllogs-service/lib/python3.6/site-packages/adder/adder.ctf
+/home/nicholas/Envs/welllogs-service/lib/python3.6/site-packages/adder/__pycache__/__init__.cpython-36.pyc
+/home/nicholas/Envs/welllogs-service/lib/python3.6/site-packages/matlabruntimeforpython-R2019a.egg-info
